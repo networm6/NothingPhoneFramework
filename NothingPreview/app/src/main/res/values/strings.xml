@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NothingPreview</string>
+    <string name="play">播放</string>
+    <string name="cancel">取消</string>
+    <string name="loadHint">预装载动画</string>
+    <string name="defaultCSV">glyphs/default.csv</string>
+    <string name="glyph_open">开启Glyph</string>
+</resources>
